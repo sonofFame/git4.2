@@ -6,6 +6,7 @@ namespace _2курс4._1лаб
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Деление: " + Convert.ToString(A / B));
 
         }
     }
