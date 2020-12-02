@@ -12,6 +12,7 @@ namespace _2курс4._1лаб
             double B = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Сумма: " + Convert.ToDouble(A + B));
             Console.WriteLine("Разность: " + Convert.ToString(A - B));
+            Console.WriteLine("Умножение: " + Convert.ToString(A * B));
 
         }
     }
