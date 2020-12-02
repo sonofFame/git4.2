@@ -15,6 +15,8 @@ namespace _2курс4._1лаб
             Console.WriteLine("Умножение: " + Convert.ToString(A * B));
             Console.WriteLine("Деление: " + Convert.ToString(A / B));
 
+            Console.ReadKey();
+
         }
     }
 }
